@@ -1,0 +1,18 @@
+.contact-us-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-items: start;
+  grid-gap: 2rem 2rem;
+  width: 75%;
+  margin: 5% auto;
+  font-family: monospace;
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 2rem 2rem;
+}
+
+.multiline-input {
+  width: 80%;
+}

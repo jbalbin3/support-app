@@ -1,0 +1,15 @@
+# Node Modules
+node_modules
+
+# Bundle.js
+bundle.js
+
+# CSV
+db/csv/
+
+
+# env
+.env
+
+#csvImporter
+csvImporter.txt
